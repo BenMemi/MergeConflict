@@ -1,11 +1,11 @@
 # MergeConflict
 
+2The standard Lorem Ipsum passage, used since the 1500s
+3"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+4sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+5Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
+6nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
 
-1The standard Lorem Ipsum passage, used since the 1500s
-2"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-3sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-4Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris 
-5nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in 
 voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat 
 cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
 
