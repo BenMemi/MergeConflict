@@ -1,5 +1,6 @@
 # MergeConflict
 
+
 2The standard Lorem Ipsum passage, used since the 1500s
 3"Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 4sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
